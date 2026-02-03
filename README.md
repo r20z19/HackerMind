@@ -3,7 +3,7 @@
 #  HackerMind【研发中...】
 
 ![AI-Architecture](https://img.shields.io/badge/AI-DeepSeek%20%7C%20GPT-blueviolet)
-![Language](https://img.shields.io/badge/Language-Go-blue)
+![Language](https://img.shields.io/badge/Language-Python-blue)
 ![Platform](https://img.shields.io/badge/Platform-Kali%20%7C%20Linux%20%7C%20Windows-orange)
 ![Version](https://img.shields.io/badge/Version-Dev-brightgreen)
 
@@ -29,6 +29,8 @@ HackerMind 是一款面向网络安全领域的智能分析利器，创新性地
 | **工具调用** | 单次单一工具调用，效率低下 | 高集成度MCP模块，全流程自动化 | 执行效率提升 |
 | **人工干预** | 黑盒决策，难以实时调整 | 链上对话，人工可实时修改AI输出 | 可控性大幅提升 |
 
+<img src="./photo/0.png" width="100%" alt="HackerMind软件主界面">
+
 ---
 
 ## 🧠 核心架构：三AI协同机制
@@ -47,6 +49,7 @@ HackerMind 是一款面向网络安全领域的智能分析利器，创新性地
 - **安全设计**：仅处理顾问LLM提纯后的高价值信息
 
 <img src="./photo/1.png" width="70%" alt="三AI分层协作架构图">
+
 ---
 
 ## ⚡ 核心特性
@@ -56,7 +59,7 @@ HackerMind 是一款面向网络安全领域的智能分析利器，创新性地
 - **干预方式**：可视化界面直接修改AI输出内容，无需额外对话框
 - **核心价值**：解决传统AI"黑盒决策"问题，人工经验与AI能力深度结合
 
-<img src="./photo/2.png" width="100%" alt="人工干预AI信息链流程图">
+<img src="./photo/2.png" width="80%" alt="人工干预AI信息链流程图">
 
 ### 2. 🚀 高集成度工具MCP：减少调用次数，提升兼容性
 - **集成化MCP**：`full_scan` MCP一次性完成端口扫描+服务识别+漏洞探测+资产归类
@@ -99,13 +102,9 @@ HackerMind 是一款面向网络安全领域的智能分析利器，创新性地
 
 ## 📞 联系方式
 
-<div align="center">
+
 如需获取完整版、技术支持或商务合作，请联系
 * **QQ**: `2478511876`
-
-</div>
-
-HackerMind 打破了传统网络安全AI工具"单一LLM全流程处理"的模式，通过三AI分层协同、链上人工干预、高集成度MCP三大核心设计，既解决了AI幻觉问题，又提升了工具调用效率和决策可控性。
 
 ---
 
@@ -115,4 +114,4 @@ HackerMind 打破了传统网络安全AI工具"单一LLM全流程处理"的模�
 
 <img src="./photo/0.png" width="100%" alt="HackerMind软件主界面">
 <img src="./photo/1.png" width="70%" alt="三AI分层协作架构图">
-<img src="./photo/2.png" width="100%" alt="链上对话">
+<img src="./photo/2.png" width="80%" alt="链上对话">
