@@ -102,7 +102,9 @@ HackerMind 是一款面向网络安全领域的智能分析利器，创新性地
 
 ## CTF夺旗-使用案例
 
-<img src="./photo/hackermind_video.mp4" width="100%" alt="HackerMind软件主界面">
+<video src="./photo/hackermind_video.mp4" controls width="100%">
+    HackerMind软件主界面
+</video>
 
 ---
 
