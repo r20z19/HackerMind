@@ -1,6 +1,6 @@
 <div align="center">
 
-#  HackerMind【研发中...】
+#  HackerMind V1.0
 
 ![AI-Architecture](https://img.shields.io/badge/AI-DeepSeek%20%7C%20GPT-blueviolet)
 ![Language](https://img.shields.io/badge/Language-Python-blue)
@@ -18,7 +18,7 @@
 
 ## 📖 项目简介
 
-HackerMind 是一款面向网络安全领域的智能分析利器，创新性地采用**主LLM + 顾问LLM + 工具LLM** 三层AI协同架构，结合可修改式链上对话机制，有效减少AI幻觉问题，大幅提升网络安全分析、渗透测试等场景下的决策准确度。
+HackerMind 是一款面向网络安全领域的智能分析利器，创新性地采用**主LLM + 顾问LLM + 工具LLM** 三层AI协同架构，结合可修改式链上对话机制，有效减少AI幻觉问题，集成多种本地mcp和web-mcp安全工具，大幅提升网络安全分析、渗透测试等场景下的决策准确度。
 
 ### 🚀 架构优势：HackerMind vs 传统AI安全工具
 
