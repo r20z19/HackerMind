@@ -40,21 +40,21 @@ HackerMind 是一款面向网络安全领域的智能分析利器，创新性地
 - **技术特色**：集成`full_scan`等高集成度MCP，一次性完成全维度扫描
 - **支持工具**：nmap、awvs、sqlmap等主流安全工具
 
-| **MCP** | **主要功能** | **Windows** | **Kali** | **其他Linux** |
-|------|------|----------|----------|
-| **create_or_modify_file** | 创建和修改本地文件 | ✅ | ✅ | 需要手动安装 |
-| **read_file** | 读取本地文件 | ✅ | ✅ | 需要手动安装 |
-| **list_files** | 列出本地文件 | ✅ | ✅ | 需要手动安装 |
-| **execute_system_command** | 本地命令执行 | ✅ | ✅ | 需要手动安装 |
-| **post_request** | POST请求 | ✅ | ✅ | 需要手动安装 |
-| **get_request** | GET请求 | ✅ | ✅ | 需要手动安装 |
-| **get_knowledge_message** | 本地知识库请求 | ✅ | ✅ | 需要手动安装 |
-| **execute_encoding_conversion** | 编码转化 || ✅ | ✅ | 需要手动安装 |
-| **full_recon** | 全面的扫描侦查 | ✅ | ✅ | 需要手动安装 |
-| **nmap** | 扫描工具 || ✅ | ✅ | 需要手动安装 |
-| **sqlmap** | sql注入工具 | ✅ | ✅ | 需要手动安装 |
-| **nikto** | 自动化扫描工具 | 需要手动安装 | ✅ | 需要手动安装 |
-| **gobuster** | 目录枚举工具 | ✅ | ✅ | 需要手动安装 |
+| MCP                      | 主要功能               | Windows       | Kali  | 其他Linux     |
+|--------------------------|------------------------|---------------|-------|---------------|
+| create_or_modify_file    | 创建和修改本地文件     | ✅            | ✅    | 需要手动安装  |
+| read_file                | 读取本地文件           | ✅            | ✅    | 需要手动安装  |
+| list_files               | 列出本地文件           | ✅            | ✅    | 需要手动安装  |
+| execute_system_command   | 本地命令执行           | ✅            | ✅    | 需要手动安装  |
+| post_request             | POST请求               | ✅            | ✅    | 需要手动安装  |
+| get_request              | GET请求                | ✅            | ✅    | 需要手动安装  |
+| get_knowledge_message   | 本地知识库请求         | ✅            | ✅    | 需要手动安装  |
+| execute_encoding_conversion | 编码转化           | ✅            | ✅    | 需要手动安装  |
+| full_recon               | 全面的扫描侦查         | ✅            | ✅    | 需要手动安装  |
+| nmap                     | 扫描工具               | ✅            | ✅    | 需要手动安装  |
+| sqlmap                   | sql注入工具            | ✅            | ✅    | 需要手动安装  |
+| nikto                    | 自动化扫描工具         | 需要手动安装  | ✅    | 需要手动安装  |
+| gobuster                 | 目录枚举工具           | ✅            | ✅    | 需要手动安装  |
 
 
 
