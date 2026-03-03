@@ -129,6 +129,6 @@ HackerMind 是一款面向网络安全领域的智能分析利器，创新性地
 <sub>Copyright © 2026 HackerMind Security Team. All Rights Reserved.</sub>
 </div>
 
-<img src="./photo/0.png" width="100%" alt="HackerMind软件主界面">
+<img src="./photo/hackermind.png" width="100%" alt="HackerMind软件主界面">
 <img src="./photo/1.png" width="70%" alt="三AI分层协作架构图">
 <img src="./photo/2.png" width="80%" alt="链上对话">
