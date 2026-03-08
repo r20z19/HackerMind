@@ -16,6 +16,9 @@
 
 ---
 
+## 如何获取
+https://m-wiki.freebuf.com/clubsStore/detail?id=116
+
 ## 📖 项目简介
 
 HackerMind 是一款面向网络安全领域的智能分析利器，创新性地采用**主LLM + 顾问LLM + 工具LLM** 三层AI协同架构，结合可修改式链上对话机制，有效减少AI幻觉问题，集成多种本地mcp和web-mcp安全工具，大幅提升网络安全分析、渗透测试等场景下的决策准确度。
@@ -42,14 +45,14 @@ HackerMind 是一款面向网络安全领域的智能分析利器，创新性地
 
 | MCP                      | 主要功能               | Windows       | Kali  | 其他Linux     |
 |--------------------------|------------------------|---------------|-------|---------------|
-| **create_or_modify_file**    | 创建和修改本地文件     | ✅            | ✅    | 需要手动安装  |
-| **read_file**                | 读取本地文件           | ✅            | ✅    | 需要手动安装  |
-| **list_files**               | 列出本地文件           | ✅            | ✅    | 需要手动安装  |
-| **execute_system_command**   | 本地命令执行           | ✅            | ✅    | 需要手动安装  |
-| **post_request**             | POST请求               | ✅            | ✅    | 需要手动安装  |
-| **get_request**              | GET请求                | ✅            | ✅    | 需要手动安装  |
-| **get_knowledge_message**   | 本地知识库请求         | ✅            | ✅    | 需要手动安装  |
-| **execute_encoding_conversion** | 编码转化           | ✅            | ✅    | 需要手动安装  |
+| **create_or_modify_file**    | 创建和修改本地文件     | ✅            | ✅    | ✅  |
+| **read_file**                | 读取本地文件           | ✅            | ✅    | ✅  |
+| **list_files**               | 列出本地文件           | ✅            | ✅    | ✅  |
+| **execute_system_command**   | 本地命令执行           | ✅            | ✅    | ✅  |
+| **post_request**             | POST请求               | ✅            | ✅    | ✅  |
+| **get_request**              | GET请求                | ✅            | ✅    | ✅  |
+| **get_knowledge_message**   | 本地知识库请求         | ✅            | ✅    | ✅  |
+| **execute_encoding_conversion** | 编码转化           | ✅            | ✅    | ✅  |
 | **full_recon**               | 全面的扫描侦查         | ✅            | ✅    | 需要手动安装  |
 | **nmap**                     | 扫描工具               | ✅            | ✅    | 需要手动安装  |
 | **sqlmap**                   | sql注入工具            | ✅            | ✅    | 需要手动安装  |
