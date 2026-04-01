@@ -1,6 +1,6 @@
 <div align="center">
 
-#  HackerMind V1.0
+#  HackerMind V1.7
 
 ![AI-Architecture](https://img.shields.io/badge/AI-DeepSeek%20%7C%20GPT-blueviolet)
 ![Language](https://img.shields.io/badge/Language-Python-blue)
@@ -22,6 +22,16 @@ https://m-wiki.freebuf.com/clubsStore/detail?id=116
 ## 📖 项目简介
 
 HackerMind 是一款面向网络安全领域的智能分析利器，创新性地采用**主LLM + 顾问LLM + 工具LLM** 三层AI协同架构，结合可修改式链上对话机制，有效减少AI幻觉问题，集成多种本地mcp和web-mcp安全工具，大幅提升网络安全分析、渗透测试等场景下的决策准确度。
+
+### 更新内容
+
+- 兼容ollama等本地模型调用
+- 添加了通用的攻击思维链
+- 添加了ai_search工具调用
+- 修复暂停按钮
+- 添加了自动确认按钮
+- 优化了对话框架（主-工具-主-工具-主-工具-顾问）
+- 优化了会话滑动
 
 ### 🚀 架构优势：HackerMind vs 传统AI安全工具
 
@@ -53,7 +63,8 @@ HackerMind 是一款面向网络安全领域的智能分析利器，创新性地
 | **get_request**              | GET请求                | ✅            | ✅    | ✅  |
 | **get_knowledge_message**   | 本地知识库请求         | ✅            | ✅    | ✅  |
 | **execute_encoding_conversion** | 编码转化           | ✅            | ✅    | ✅  |
-| **full_recon**               | 全面的扫描侦查         | ✅            | ✅    | 需要手动安装  |
+| **full_recon**               | 全面的扫描侦查         | ✅            | ✅    | ✅  |
+| **ai_search**               | 联网搜索相关文章         | ✅            | ✅    | ✅  |
 | **nmap**                     | 扫描工具               | ✅            | ✅    | 需要手动安装  |
 | **sqlmap**                   | sql注入工具            | ✅            | ✅    | 需要手动安装  |
 | **nikto**                    | 自动化扫描工具         | 需要手动安装  | ✅    | 需要手动安装  |
@@ -116,7 +127,7 @@ https://github.com/user-attachments/assets/30d5069e-4515-4506-bfb7-746e47321d92
 - **行业专属MCP**：工控安全、云安全、移动安全等细分领域
 - **漏洞验证MCP**：专业化漏洞验证和利用链构建
 
-### 🌐 多模态能力增强
+### 🌐 细分领域（对SQL 文件上传等做细分）
 
 ---
 
