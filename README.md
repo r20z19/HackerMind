@@ -75,7 +75,7 @@ HackerMind 是一款面向网络安全领域的智能分析利器，创新性地
 - **技术特色**：集成`full_scan`等高集成度MCP，一次性完成全维度扫描
 - **支持工具**：nmap、awvs、sqlmap等主流安全工具
 
-| MCP                      | 主要功能               | Windows       | Kali  | 其他Linux     |
+| MCP                      | 主要功能               | Windows       | Kali/arm Kali  | 其他Linux（不支持原生mac os）     |
 |:-----------------------: |:---------------------: |:------------: |:----: |:------------: |
 | **create_or_modify_file**    | 创建和修改本地文件     | ✅            | ✅    | ✅  |
 | **read_file**                | 读取本地文件           | ✅            | ✅    | ✅  |
