@@ -1,6 +1,6 @@
 <div align="center">
 
-#  HackerMind V2.1
+#  HackerMind V3.2
 
 ![AI-Architecture](https://img.shields.io/badge/AI-DeepSeek%20%7C%20GPT-blueviolet)
 ![Language](https://img.shields.io/badge/Language-Python-blue)
@@ -23,7 +23,12 @@ https://m-wiki.freebuf.com/clubsStore/detail?id=116
 
 HackerMind 是一款面向网络安全领域的智能分析利器，创新性地采用**主LLM + 顾问LLM + 工具LLM** 三层AI协同架构，结合可修改式链上对话机制，有效减少AI幻觉问题，集成多种本地mcp和web-mcp安全工具，大幅提升网络安全分析、渗透测试等场景下的决策准确度。
 
+### CTF解题视频
+
+
 ### 最新更新内容
+- **框架**：
+  - 针对Anthropic形成 主LLM->工具LLM 架构，
 - **工具**：
   - 对gobuster输出进行优化
   - 增加python代码执行调用
@@ -34,6 +39,7 @@ HackerMind 是一款面向网络安全领域的智能分析利器，创新性地
   - 新增openssl密码学工具
 
 - **能力**：
+  - 新增Anthropic模式
   - 对顾问LLM添加了自定义知识库
   - 新增附件上传-直接复制文件路径即可
   - 添加分类模版，对指定场景分析能力大幅提高
@@ -216,6 +222,13 @@ https://github.com/user-attachments/assets/30d5069e-4515-4506-bfb7-746e47321d92
 - **其他**
   - 修复部分bug
 
+### HackerMind V3.2 更新
+
+- **框架**：
+  - 针对Anthropic形成 主LLM->工具LLM 架构，
+- **能力**：
+  - 新增Anthropic模式
+    
 ---
 
 <div align="center">
