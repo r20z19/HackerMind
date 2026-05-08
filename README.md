@@ -26,13 +26,14 @@ HackerMind 是一款面向网络安全领域的智能分析利器，创新性地
 ### CTF解题视频
 
 #### Web示例
-https://github.com/r20z19/HackerMind/web.mp4
+https://github.com/user-attachments/assets/fe77624f-003d-4f6f-8cb1-e55191bbd9a1
 
 #### 二进制逆向示例
-https://github.com/r20z19/HackerMind/reverse.mp4
+https://github.com/user-attachments/assets/2d6b384d-d645-442d-aaa6-227a0088a339
 
 #### 流量包分析示例
-https://github.com/r20z19/HackerMind/wireshark.mp4
+https://github.com/user-attachments/assets/ff7fa076-b282-4593-acd1-20f5e81586cd
+
 
 ### 最新更新内容
 - **框架**：
