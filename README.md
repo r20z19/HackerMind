@@ -25,6 +25,21 @@ HackerMind 是一款面向网络安全领域的智能分析利器，创新性地
 
 ### CTF解题视频
 
+#### Web示例
+<video width="100%" controls autoplay muted loop>
+  <source src="./web.mp4" type="video/mp4">
+</video>
+
+#### 二进制逆向示例
+<video width="100%" controls autoplay muted loop>
+  <source src="./reverse.mp4" type="video/mp4">
+</video>
+
+#### 流量包分析示例
+<video width="100%" controls autoplay muted loop>
+  <source src="./wireshark.mp4" type="video/mp4">
+</video>
+
 
 ### 最新更新内容
 - **框架**：
