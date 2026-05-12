@@ -1,6 +1,6 @@
 <div align="center">
 
-#  HackerMind V3.2
+#  HackerMind V3.5
 
 ![AI-Architecture](https://img.shields.io/badge/AI-DeepSeek%20%7C%20GPT-blueviolet)
 ![Language](https://img.shields.io/badge/Language-Python-blue)
@@ -40,7 +40,8 @@ https://github.com/user-attachments/assets/ff7fa076-b282-4593-acd1-20f5e81586cd
 
 ### 最新更新内容
 - **框架**：
-  - 针对Anthropic形成 主LLM->工具LLM 架构，
+  - 形成 主LLM->工具LLM 架构
+  - 长期记忆 1主LLM->工具LLM->2主LLM 架构
 - **工具**：
   - 对gobuster输出进行优化
   - 增加python代码执行调用
@@ -50,9 +51,7 @@ https://github.com/user-attachments/assets/ff7fa076-b282-4593-acd1-20f5e81586cd
   - 新增radare2逆向分析工具
   - 新增openssl密码学工具
 
-- **能力**：
-  - 新增Anthropic模式
-  - 对顾问LLM添加了自定义知识库
+- **能力**
   - 新增附件上传-直接复制文件路径即可
   - 添加分类模版，对指定场景分析能力大幅提高
     - 通用模版
@@ -63,7 +62,14 @@ https://github.com/user-attachments/assets/ff7fa076-b282-4593-acd1-20f5e81586cd
     - 流量包分析
     - 内存取证
     - 密码学
-
+    - 本地模型sql注入
+    - 本地模型php审计
+    - 本地模型文件上传
+    - 本地模型二进制逆向
+    - 本地模型流量包分析
+    - 本地模型内存取证
+    - 本地模型密码学
+    - 
 - **用户体验**：
   - 修改为Ai流式输出
   - 端口随机化，可多开同时运行
@@ -71,7 +77,7 @@ https://github.com/user-attachments/assets/ff7fa076-b282-4593-acd1-20f5e81586cd
 - **其他**
   - 修复部分bug
 
-<img src="./photo/hackermindv2.0.png" width="100%" alt="HackerMind软件主界面">
+<img src="./photo/hackermindv3.5.png" width="100%" alt="HackerMind软件主界面">
 
 ### 🚀 架构优势：HackerMind vs 传统AI安全工具
 
